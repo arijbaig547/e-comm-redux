@@ -62,9 +62,6 @@ It uses **FakeStoreAPI** to fetch real products and provides a complete shopping
 │── main.jsx
 │── index.css
 
-yaml
-Copy code
-
 ---
 
 ## 🔧 Installation & Setup
