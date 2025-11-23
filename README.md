@@ -61,6 +61,7 @@ UX	Animations, Modals, Responsive UI
 📦 Folder Structure
 /src
 │── /redux
+│── /store
 │     ├── /productSlices
 │     │      └── productSlice.js
 │     ├── /cartSlices
@@ -112,9 +113,9 @@ Endpoint used:
 
 https://fakestoreapi.com/products
 
-📸 Screenshots (Optional)
+📸 Screenshots 
 
-You can add screenshots like:
+
 
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/b12e7990-c3da-48f6-9102-6d9f6085b4be" />
 <img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/44c0b768-1876-4642-8a7a-88fe90958095" />
@@ -136,5 +137,5 @@ Categories filter
 ✨ Author
 
 Mirza Arij Baig
-Premium Frontend Developer ✨
+Frontend Developer ✨
 HTML • CSS • JavaScript • React • Redux • Tailwind
